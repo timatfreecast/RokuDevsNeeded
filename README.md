@@ -6,4 +6,4 @@ To get an idea of what the design for the Channels section of our App needed, pl
 
 #### Designs will be provided for Login, Forgot Password and all areas of our Channel Guide and Player.
 
-Submit your portfolio, relevant GitHub Repos and Resume to this Repo.
+Submit your portfolio, relevant GitHub Repos and Resume to this Repo's Discussion.
